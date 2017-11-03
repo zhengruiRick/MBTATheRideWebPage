@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da217cba-8f9b-4a79-bdd7-a77ebb71ee2e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Sprint/Sprint2/Sprint2.html" afterPath="$PROJECT_DIR$/public/Sprint/Sprint2/Sprint2.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +19,8 @@
       <file leaf-file-name="Sprint2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/Sprint/Sprint2/Sprint2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="71" column="29" lean-forward="false" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+            <state relative-caret-position="366">
+              <caret line="78" column="77" lean-forward="false" selection-start-line="78" selection-start-column="77" selection-end-line="78" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -233,12 +233,12 @@
       <workItem from="1509730878854" duration="470000" />
       <workItem from="1509731376272" duration="337000" />
       <workItem from="1509731949018" duration="1034000" />
-      <workItem from="1509736081361" duration="6774000" />
+      <workItem from="1509736081361" duration="7169000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8615000" />
+    <option name="totallyTimeSpent" value="9010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="0" />
@@ -529,8 +529,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/Sprint/Sprint2/Sprint2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="71" column="29" lean-forward="false" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+        <state relative-caret-position="366">
+          <caret line="78" column="77" lean-forward="false" selection-start-line="78" selection-start-column="77" selection-end-line="78" selection-end-column="77" />
           <folding />
         </state>
       </provider>
