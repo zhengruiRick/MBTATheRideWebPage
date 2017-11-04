@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da217cba-8f9b-4a79-bdd7-a77ebb71ee2e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,11 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="75" lean-forward="false" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+            <state relative-caret-position="0">
+              <caret line="16" column="75" lean-forward="true" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sprint3.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/Sprint/Sprint3/Sprint3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -39,12 +49,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="67" column="37" lean-forward="true" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
+            <state relative-caret-position="289">
+              <caret line="80" column="26" lean-forward="false" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="26" />
               <folding>
                 <element signature="e#2243#2250#0" expanded="true" />
-                <element signature="e#2624#2631#0" expanded="true" />
-                <element signature="e#2952#2959#0" expanded="true" />
+                <element signature="e#2613#2620#0" expanded="true" />
+                <element signature="e#3089#3096#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,9 +102,10 @@
         <option value="$PROJECT_DIR$/public/css/blog.css" />
         <option value="$PROJECT_DIR$/public/Sprint/Sprint1.html" />
         <option value="$PROJECT_DIR$/public/Sprint/Sprint1/Sprint1.html" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/public/Sprint/Sprint2/Sprint2.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/Sprint/Sprint3/Sprint3.html" />
       </list>
     </option>
   </component>
@@ -162,12 +173,6 @@
               <item name="MBTATheRideWebPage" type="b2602c69:ProjectViewProjectNode" />
               <item name="MBTATheRideWebPage" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="MBTA" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MBTATheRideWebPage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MBTATheRideWebPage" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="Sprint" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -175,15 +180,14 @@
               <item name="MBTATheRideWebPage" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="Sprint" type="462c0819:PsiDirectoryNode" />
-              <item name="Sprint2" type="462c0819:PsiDirectoryNode" />
+              <item name="Sprint1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MBTATheRideWebPage" type="b2602c69:ProjectViewProjectNode" />
               <item name="MBTATheRideWebPage" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="Sprint" type="462c0819:PsiDirectoryNode" />
-              <item name="Sprint2" type="462c0819:PsiDirectoryNode" />
-              <item name="Meeting Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="Sprint3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,6 +206,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/Sprint/Sprint3" />
       <recent name="$PROJECT_DIR$/public/Sprint" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -243,12 +248,12 @@
       <workItem from="1509730878854" duration="470000" />
       <workItem from="1509731376272" duration="337000" />
       <workItem from="1509731949018" duration="1034000" />
-      <workItem from="1509736081361" duration="7530000" />
+      <workItem from="1509736081361" duration="9454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9371000" />
+    <option name="totallyTimeSpent" value="11295000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="0" />
@@ -322,8 +327,8 @@
           <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
           <folding>
             <element signature="e#2243#2250#0" expanded="true" />
-            <element signature="e#2624#2631#0" expanded="true" />
-            <element signature="e#2952#2959#0" expanded="true" />
+            <element signature="e#2613#2620#0" expanded="true" />
+            <element signature="e#3089#3096#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -366,8 +371,8 @@
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="e#2243#2250#0" expanded="true" />
-            <element signature="e#2624#2631#0" expanded="true" />
-            <element signature="e#2952#2959#0" expanded="true" />
+            <element signature="e#2613#2620#0" expanded="true" />
+            <element signature="e#3089#3096#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -386,8 +391,8 @@
           <caret line="13" column="212" lean-forward="false" selection-start-line="13" selection-start-column="212" selection-end-line="13" selection-end-column="212" />
           <folding>
             <element signature="e#2243#2250#0" expanded="true" />
-            <element signature="e#2624#2631#0" expanded="true" />
-            <element signature="e#2952#2959#0" expanded="true" />
+            <element signature="e#2613#2620#0" expanded="true" />
+            <element signature="e#3089#3096#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -517,18 +522,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="67" column="37" lean-forward="true" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
-          <folding>
-            <element signature="e#2243#2250#0" expanded="true" />
-            <element signature="e#2624#2631#0" expanded="true" />
-            <element signature="e#2952#2959#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/Sprint/Sprint2/Sprint2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
@@ -539,8 +532,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="75" lean-forward="false" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+        <state relative-caret-position="0">
+          <caret line="16" column="75" lean-forward="true" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="80" column="26" lean-forward="false" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="26" />
+          <folding>
+            <element signature="e#2243#2250#0" expanded="true" />
+            <element signature="e#2613#2620#0" expanded="true" />
+            <element signature="e#3089#3096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Sprint/Sprint3/Sprint3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
           <folding />
         </state>
       </provider>
